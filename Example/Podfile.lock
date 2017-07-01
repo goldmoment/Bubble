@@ -1,0 +1,16 @@
+PODS:
+  - Bubble (0.1.0)
+
+DEPENDENCIES:
+  - Bubble (from `../`)
+
+EXTERNAL SOURCES:
+  Bubble:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Bubble: 5ddd8f605c5a9330a7ec109b0907c7f491c2792a
+
+PODFILE CHECKSUM: d7a92fdb50276fa8e12145f470cedddf1379b1cf
+
+COCOAPODS: 1.2.1
