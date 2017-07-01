@@ -6,6 +6,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/Bubble.svg?style=flat)](http://cocoapods.org/pods/Bubble)
 
 ## Example
+[![Demo 1](https://media.giphy.com/media/AMPOAkTWG9rA4/giphy.gif)](https://media.giphy.com/media/AMPOAkTWG9rA4/source.mp4)
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
